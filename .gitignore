@@ -5,7 +5,7 @@ bin/*
 !/plugins/android.json
 !/plugins/fetch.json
 plugins/*
-platforms/*
+# platforms/*
 hooks/*
 node_modules/*
 
