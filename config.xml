@@ -1,11 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="br.com.aticcaconsignado.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 <preference name="android-minSdkVersion" value="15" />
-    <preference name="StatusBarOverlaysWebView" value="false" />
-    <preference name="StatusBarBackgroundColor" value="#ffffff" />
-    <preference name="StatusBarStyle" value="lightcontent" />
-    <preference name="SplashScreen" value="screen" />
-    <preference name="SplashMaintainAspectRatio" value="true" />
+
 <platform name="android">
         <allow-intent href="market:*" />
         <icon density="ldpi" src="res/icons/android/mipmap-ldpi/icon.png" />
