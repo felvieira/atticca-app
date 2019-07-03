@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.aticcacapital.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<preference name="android-minSdkVersion" value="14" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#ffffff" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+
+    <name>Aticca Capital</name>
+    <description>
+        Especializados em soluções financeiras e atuante há mais de 16 anos, Aticca proporciona aos seus clientes operações exclusivas de acordo com a necessidade e objetivos de cada um, montando estratégias e planos de decisões para cada caso, sendo como diferencial ao longo de quase duas décadas.
+
+Contamos com equipe de profissionais que estão prontamente preparados para garantir a você e sua empresa, agilidade e segurança em suas operações diárias
+
+Utilizamos base tecnológica de alto padrão, oferecendo de maneira única a cada clientes informações essenciais para tomada de decisões, minimizando consideravelmente perdas em determinadas negociações.
+
+Além de operações digitais, todas nossas operações  são auditadas, garantindo segurança, transparência e credibilidade aos nossos clientes e investidores.
+     </description>
+    <author email="atendimento@aticcacapital.com.br" href="http://aticcacapital.com.br/">
+       http://aticcacapital.com.br/
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*://*.aticcacapital.com.br/*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <engine name="android" spec="^6.1.2" />
+    <engine name="ios" spec="^4.5.4" />
+    <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
+    <plugin name="onesignal-cordova-plugin" spec="^2.2.2" />
+    <plugin name="cordova-plugin-inappbrowser" spec="^1.7.2" />
+    <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
+</widget>
