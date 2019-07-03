@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.aticcacapital.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="br.com.aticcaconsignado.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 <preference name="android-minSdkVersion" value="15" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#ffffff" />
@@ -37,7 +37,7 @@
         <icon height="152" src="res/icons/ios/icon-76-2x.png" width="152" />
         <icon height="167" src="res/icons/ios/icon-83.5-2x.png" width="167" />
     </platform>
-    <name>Aticca Capital</name>
+    <name>Aticca Consignado</name>
     <description>
         Especializados em soluções financeiras e atuante há mais de 16 anos, Aticca proporciona aos seus clientes operações exclusivas de acordo com a necessidade e objetivos de cada um, montando estratégias e planos de decisões para cada caso, sendo como diferencial ao longo de quase duas décadas.
 
@@ -47,12 +47,12 @@ Utilizamos base tecnológica de alto padrão, oferecendo de maneira única a cad
 
 Além de operações digitais, todas nossas operações  são auditadas, garantindo segurança, transparência e credibilidade aos nossos clientes e investidores.
      </description>
-    <author email="atendimento@aticcacapital.com.br" href="http://aticcacapital.com.br/">
-       http://aticcacapital.com.br/
+    <author email="atendimento@aticcacapital.com.br" href="https://consignado.moneyp.com.br/aticca">
+      https://consignado.moneyp.com.br/aticca/
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <allow-navigation href="*://*.aticcacapital.com.br/*" />
+    <allow-navigation href="*://*.consignado.moneyp.com.br/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />

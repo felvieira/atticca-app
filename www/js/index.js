@@ -25,7 +25,7 @@ var app = {
 
 		window.open = cordova.InAppBrowser.open;
 
-		window.open('http://aticcacapital.com.br', "_self", 'location=no,toolbar=no,hardwareback=no');
+		window.open('https://consignado.moneyp.com.br/aticca', "_self", 'location=no,toolbar=no,hardwareback=no');
 
 		// document.addEventListener('click', function (e) {
 		// 	if (e.target.tagName === 'A' &&
